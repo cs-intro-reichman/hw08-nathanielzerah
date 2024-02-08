@@ -157,7 +157,7 @@ class PlayList {
                     x = i;
                 }
             }
-            return i;
+            return x;
         }
         return -1;
     }
